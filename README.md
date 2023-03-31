@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/ram%C3%B3n-fern%C3%A1ndez-cerezo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +26,9 @@
   <li> I am eager to find a new challenge in Data Science that helps me grow as a professional.</li>
   <li> In my free time I enjoy playing football ⚽, paddle tennis 🎾, but also watching Formula 1 🏎️ and reading books 📖.</li>
 </ul>
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
