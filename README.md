@@ -27,12 +27,12 @@
   <li> In my free time I enjoy playing football ⚽, paddle tennis 🎾, but also watching Formula 1 🏎️ and reading books 📖.</li>
 </ul>
 
+## Projects
 
 
-
-### :hammer_and_wrench: Languages and Tools :
-
+## :hammer_and_wrench: Languages and Tools
 <div>
+  <ul>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
@@ -48,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="50" height="50"/>
-
+  </ul>
 </div>
 
 <!--
