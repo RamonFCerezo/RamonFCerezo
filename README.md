@@ -23,21 +23,8 @@
   <li> I have a strong interest in the development of predictive models and algorithms. I enjoy exploring machine learning techniques such as supervised and unsupervised learning, deep learning, and reinforcement learning.</li>
   <li> Due to my communication background, I find it fulfilling to work with text data and developing NLP models to extract insights from unstructured text. I have experience in developing chatbots, sentiment analysis models, and text classification models using NLP techniques such as tokenization or lemmatization.</li>
   <li> I am eager to find a new challenge in Data Science that helps me grow as a professional.</li>
-  <li> In my free time I enjoy playing football, paddle tennis, but also watching Formula 1 and reading books.</li>
+  <li> In my free time I enjoy playing football ⚽, paddle tennis 🎾, but also watching Formula 1 🏎️ and reading books 📖.</li>
 </ul>
-
-
-My name is Ramón Fernández and I am a Data Scientist from Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Journalism, I found my passion in Data Science when I discovered it in the football world.
-
-I'm a recent graduate of the Data Science Bootcamp in The Bridge, where I completed an intensive program in data science and analytics. With a background in communication, I've always been interested in how data can be used to inform decision-making and tell compelling stories. Throughout my education, I've gained expertise in statistics, programming, and data visualization, and have completed several projects demonstrating my skills in these areas.
-
-## Interests
-
-- I find it fascinating to explore and showcase data visually. I enjoy analyzing large datasets, creating interactive dashboards, using visualization libraries and designing informative graphs and charts. In a nutshell, **making data accesible to everyone**.
-- I have a strong interest in the development of predictive models and algorithms. I enjoy exploring machine learning techniques such as supervised and unsupervised learning, deep learning, and reinforcement learning.
-- Due to my communication background, I find it fulfilling to work with text data and developing NLP models to extract insights from unstructured text. I have experience in developing chatbots, sentiment analysis models, and text classification models using NLP techniques such as tokenization or lemmatization.
-- I am eager to find a new challenge in Data Science that helps me grow as a professional.
-- In my free time I enjoy playing football, paddle tennis, but also watching Formula 1 and reading books.
 
 
 <!--
