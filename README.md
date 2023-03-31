@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=RamonFCerezo&style=flat-square&color=blue" alt=""/>
 </div>
   <h2>Welcome to my profile!</h2>
-</div>
 
 <h2> About Me </h2>
 <p> My name is Ramón Fernández and I am a Data Scientist from Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Journalism, I found my passion in Data Science when I discovered it in the football world.</p>
