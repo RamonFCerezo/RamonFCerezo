@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 <p> My name is Ramón Fernández and I am a Data Scientist from Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Journalism, I found my passion in Data Science when I discovered it in the football world.</p>
-<p> I'm a recent graduate of the Data Science Bootcamp in The Bridge, where I completed an intensive program in data science and analytics. With a background in communication, I've always been interested in how data can be used to inform decision-making and tell compelling stories. Throughout my education, I've gained expertise in statistics, programming, and data visualization, and have completed several projects demonstrating my skills in these areas.</p>
+<p> I'm a recent graduate of the Data Science Bootcamp in The Bridge, where I completed an intensive program in data science and analytics. I've always been interested in how data can be used to inform decision-making and tell compelling stories. Throughout my education, I've gained expertise in statistics, programming, and data visualization, and have completed several projects demonstrating my skills in these areas.</p>
 
 <h2> Interests </h2>
 <ul>
@@ -26,6 +26,25 @@
   <li> In my free time I enjoy playing football ⚽, paddle tennis 🎾, but also watching Formula 1 🏎️ and reading books 📖.</li>
 </ul>
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" **alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" **alt="Pytest" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+
+</div>
 
 <!--
 **RamonFCerezo/RamonFCerezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
