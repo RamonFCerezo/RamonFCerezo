@@ -42,7 +42,17 @@
 
 <h2>Contact me</h2>
 <div>
-  <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p>
+  <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
+<a href="mailto:ramonfernandezcerezo1@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email">
+</a>
+<a href="mailto:ramonfernandezcerezo1@gmail.com">
+  <button>Contact Me</button>
+</a>
+<a href="mailto:ramonfernandezcerezo1@gmail.com">
+  <span style="color: black; border-bottom: 1px solid black;">Email Me</span>
+</a>
+
 
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
