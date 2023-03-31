@@ -30,7 +30,6 @@
 </ul>
 
 <h2>Projects</h2>
-<h2>Projects</h2>
 <div>
   <ul>
     <li><a href="https://github.com/RamonFCerezo/EDA-Possession-in-football">EDA - Importance of ball possession in football</a></li>
