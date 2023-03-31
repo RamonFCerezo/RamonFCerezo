@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/RamonFCerezo/RamonFCerezo/blob/main/RamonFCerezo.png" width="600"/>
+  <img src="https://github.com/RamonFCerezo/RamonFCerezo/blob/main/RamonFCerezo.png" width="800"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ram%C3%B3n-fern%C3%A1ndez-cerezo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
