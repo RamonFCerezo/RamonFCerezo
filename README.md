@@ -30,15 +30,17 @@
 </ul>
 
 <h2>Projects</h2>
+<h2>Projects</h2>
 <div>
   <ul>
-    <li> [EDA - Importance of ball possession in football](https://github.com/RamonFCerezo/EDA-Possession-in-football)</li>
-    <li> [Twitter sentiment analysis using Python and NLP techniques for a company](https://github.com/RamonFCerezo/CasoPracticoTwitter)</li>
-    <li> [Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface](https://github.com/RamonFCerezo/API-chatgpt)</li>
-    <li> [Machine Learning - Prediction models for F1 races](https://github.com/RamonFCerezo/ML-F1)</li>
-    <li> [Python library for Data Scientists](https://github.com/RamonFCerezo/MachineLearningToolKit)</li>
+    <li><a href="https://github.com/RamonFCerezo/EDA-Possession-in-football">EDA - Importance of ball possession in football</a></li>
+    <li><a href="https://github.com/RamonFCerezo/CasoPracticoTwitter">Twitter sentiment analysis using Python and NLP techniques for a company</a></li>
+    <li><a href="https://github.com/RamonFCerezo/API-chatgpt">Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface</a></li>
+    <li><a href="https://github.com/RamonFCerezo/ML-F1">Machine Learning - Prediction models for F1 races</a></li>
+    <li><a href="https://github.com/RamonFCerezo/MachineLearningToolKit">Python library for Data Scientists</a></li>
   </ul>
 </div>
+
 
 <h2>Contact me</h2>
 <div>
