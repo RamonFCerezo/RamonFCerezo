@@ -7,7 +7,8 @@
   <a href="https://www.kaggle.com/ramonfernandezcerezo">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://github.com/RamonFCerezo?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Ramón Fernández"/></a>
+  <a href="https://github.com/RamonFCerezo?tab=repositories">
+    <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Ramón Fernández"/></a>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=RamonFCerezo&style=flat-square&color=blue" alt=""/>
