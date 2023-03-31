@@ -10,8 +10,13 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=RamonFCerezo&style=flat-square&color=blue" alt=""/>
 </div>
-  <h2>My name is Ramón Fernandez and welcome to my profile!</h2>
+  <h2>Welcome to my profile!</h2>
 </div>
+
+My name is Ramón Fernández and I am a Data Scientist from Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Journalism, I found my passion in Data Science when I discovered it in the football world.
+
+I'm a recent graduate of the Data Science Bootcamp in The Bridge, where I completed an intensive program in data science and analytics. With a background in communication, I've always been interested in how data can be used to inform decision-making and tell compelling stories. Throughout my education, I've gained expertise in statistics, programming, and data visualization, and have completed several projects demonstrating my skills in these areas.
+
 
 <!--
 **RamonFCerezo/RamonFCerezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
