@@ -7,6 +7,7 @@
   <a href="https://www.kaggle.com/ramonfernandezcerezo">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://github.com/RamonFCerezo?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Ramón Fernández"/></a>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=RamonFCerezo&style=flat-square&color=blue" alt=""/>
@@ -27,12 +28,24 @@
   <li> In my free time I enjoy playing football ⚽, paddle tennis 🎾, but also watching Formula 1 🏎️ and reading books 📖.</li>
 </ul>
 
-## Projects
+<h2>Projects</h2>
+<div>
+  <ul>
+    <li> [EDA - Importance of ball possession in football](https://github.com/RamonFCerezo/EDA-Possession-in-football)</li>
+    <li> [Twitter sentiment analysis using Python and NLP techniques for a company](https://github.com/RamonFCerezo/CasoPracticoTwitter)</li>
+    <li> [Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface](https://github.com/RamonFCerezo/API-chatgpt)</li>
+    <li> [Machine Learning - Prediction models for F1 races](https://github.com/RamonFCerezo/ML-F1)</li>
+    <li> [Python library for Data Scientists](https://github.com/RamonFCerezo/MachineLearningToolKit)</li>
+  </ul>
+</div>
+
+<h2>Contact me</h2>
+<div>
+  <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p>
 
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
-  <ul>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
@@ -48,7 +61,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="50" height="50"/>
-  </ul>
 </div>
 
 <!--
