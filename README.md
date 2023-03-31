@@ -43,7 +43,7 @@
 <h2>Contact me</h2>
 <div>
   <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
-<a href="mailto:ramonfernandezcerezo1@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email icon" width="25"/></a>
+[![Email](https://img.shields.io/badge/Email-ramonfernandezcerezo1%40gmail.com-blue?style=for-the-badge)](mailto:ramonfernandezcerezo1@gmail.com)
 </div>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
