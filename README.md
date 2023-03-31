@@ -8,7 +8,7 @@
   </a>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Migueldfr&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=RamonFCerezo&style=flat-square&color=blue" alt=""/>
 </div>
   <h2>My name is Ramón Fernandez and welcome to my profile!</h2>
 </div>
